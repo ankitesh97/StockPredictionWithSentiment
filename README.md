@@ -23,7 +23,7 @@ This comparative study aims to find the relation between the social popularity o
 ## Baseline Model
 
 The model that we used to predict the stock prices was stack many to one LSTM  
-![LSTM]('https://github.com/ankitesh97/StockPredictionWithSentiment/blob/master/lstm.png')
+![LSTM]('lstm.png')
 
 
 The model remained the same for the comparision purpose, only the input features were changed  
@@ -56,7 +56,7 @@ Along with the previous features we added some features related to sentiment
 
 The below image explains it all  
 
-![architechture]('https://github.com/ankitesh97/StockPredictionWithSentiment/blob/master/architecture.png')
+![architechture]('architecture.png')
 
 
 Then we took the average of the positiveness, and the negativeness across the different tweets in a given time span
@@ -85,7 +85,7 @@ Mae: 5
 
 The Mae curve  
 
-![mae_curve]('https://github.com/ankitesh97/StockPredictionWithSentiment/saved_params/mae_plot.png')
+![mae_curve]('mae_plot.png')
 
 
 
