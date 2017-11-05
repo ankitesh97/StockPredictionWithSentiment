@@ -32,6 +32,7 @@ Loss : MSE
 Error: Mean Absolute Error  
 Optimization: rmsprop  
 Epochs: 500
+Activation: tanh
 
 ## Features For Without Sentiment
 
