@@ -31,7 +31,7 @@ The model remained the same for the comparision purpose, only the input features
 Loss : MSE  
 Error: Mean Absolute Error  
 Optimization: rmsprop  
-Epochs: 500
+Epochs: 500  
 Activation: tanh
 
 ## Features For Without Sentiment
