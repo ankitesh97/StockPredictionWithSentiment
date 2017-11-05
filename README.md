@@ -7,7 +7,7 @@ This comparative study aims to find the relation between the social popularity o
 [Baseline Model](#baseline-model)  
 [Features For Without Sentiment](#features-for-without-sentiment)  
 [Features For With Sentiment](#features-for-with-sentiment)  
-[Features For With Sentiment And The Tweet Encoded](#features-for-with-sentiment-and-the-tweet- encoded)  
+[Features For With Sentiment And The Tweet Encoded](#features-for-with-sentiment-and-the-tweet-encoded)  
 [Comparision](#comparision)
 
 ## The Dataset
