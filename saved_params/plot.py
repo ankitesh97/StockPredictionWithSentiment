@@ -10,6 +10,7 @@ data_normal  = np.array(data['acc']).flatten()
 data = json.loads(open('data2-senti2.json','r').read())
 data_senti  = np.array(data['acc']).flatten()
 
+
 data = json.loads(open('data2-senti-word2.json','r').read())
 data_senti_word  = np.array(data['acc']).flatten()
 
