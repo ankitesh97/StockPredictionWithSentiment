@@ -68,12 +68,12 @@ So two new features
 
 
 Total features - 8  
-Mae: 38
+Mae: 26
 
 
 ## Features For With Sentiment And The Tweet Encoded
 
-Along with the previous features, we encoded each tweet using a variation of the Word2Vec model(encodec in 50 dimension)
+Along with the previous features, we encoded each tweet using a variation of the Word2Vec model(encoded in 50 dimension)
 
 Again we took weighted averages of the tweets belonging to one time span
 
